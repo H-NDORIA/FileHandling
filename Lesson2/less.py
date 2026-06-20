@@ -1,1 +1,1 @@
-anything = "Hello, World!"
+anything = "Hell, World!"
