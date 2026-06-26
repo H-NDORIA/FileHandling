@@ -1,6 +1,3 @@
-This is a test - append
-This is a test \n ->
-This is a test
-
-
-This is another testThis is another test - append
+Hello, World!
+This is a test file.
+It contains multiple lines of text.

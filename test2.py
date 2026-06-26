@@ -1,2 +1,2 @@
-with open("text.txt", "a") as file:
+with open("seek.txt", "a") as file:
     file.write("This is another test")
